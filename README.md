@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> <img src="https://c.tenor.com/Bks2Si272y4AAAAd/obi-wan-kenobi-hello-there.gif" width="150px" align="center">I'm Mikołaj</h1>
+<h1 align="center"> <img src="https://c.tenor.com/Bks2Si272y4AAAAd/obi-wan-kenobi-hello-there.gif" width="150px"> I'm Mikołaj</h1>
 
  🔭 Currently working on my JavaScript skills using React.js library.
 

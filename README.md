@@ -10,5 +10,6 @@
   <img alt="Css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-ECD53E?style=flat-square&logo=Javascript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-61DBFB?style=flat-square&logo=React&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-2285b3?style=flat-square&logo=python&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>

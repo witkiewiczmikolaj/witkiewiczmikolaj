@@ -15,5 +15,4 @@
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/witkiewiczmikolaj/witkiewiczmikolaj/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/witkiewiczmikolaj/witkiewiczmikolaj/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
 

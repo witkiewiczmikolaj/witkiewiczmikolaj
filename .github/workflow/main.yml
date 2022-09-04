@@ -1,0 +1,29 @@
+name: Snake
+on:
+  schedule:
+    - cron: "0 4 * * *" 
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      - name: generate snake gifs
+        uses: Platane/snk/svg-only@v2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: save the snakes
+        uses: crazy-max/ghaction-github-pages@v2.6.0
+        with:
+          target_branch: snake
+          build_dir: dist
+          commit_message: "contribution snake refresh"
+          committer: "witkiewiczmikolaj <witkiewiczmikolaj@gmail.com>"
+          author: "witkiewiczmikolaj <witkiewiczmikolaj@gmail.com>"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

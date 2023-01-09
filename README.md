@@ -1,6 +1,4 @@
-
-<h4 align="center"><img src="https://c.tenor.com/Bks2Si272y4AAAAd/obi-wan-kenobi-hello-there.gif" width="150px"> </h4>
-<h1 align="center"> I'm Mikołaj</h1>
+<h1 align="center">Hello there! I'm Mikołaj</h1>
 
  🔭 Currently working on my Python skills.
 
